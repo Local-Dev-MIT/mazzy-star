@@ -1,0 +1,30 @@
+{
+  "term": "Spring",
+  "year": "2025",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "mazzy-star"
+  },
+  "course_image": {
+    "content": "",
+    "website": "mazzy-star"
+  },
+  "course_title": "Fade Into You",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This is a song.",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MUSIC11",
+  "learning_resource_types": [],
+  "site_uid": "27b37ca9-30b6-467e-9e75-2650d2a387fd",
+  "site_short_id": "mazzy-star",
+  "site_url_path": "courses/music11-fade-into-you-spring-2025"
+}
