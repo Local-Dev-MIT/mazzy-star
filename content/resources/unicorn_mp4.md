@@ -17,7 +17,13 @@ title: unicorn.mp4
 uid: 2d2fa6f0-f159-4151-8354-3ac5831e8a4e
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file:
+  - file: /courses/music11-fade-into-you-spring-2025/unicorn_captions_en_us.vtt
+    language: en
+  video_captions_resources:
+  - file: /courses/music11-fade-into-you-spring-2025/unicorn_captions_en_us.vtt
+    language: en
+    locale: US
   video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
